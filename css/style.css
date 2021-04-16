@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 73px;
+    background-color: black;
+    overflow: hidden;
+}
+.logo{
+    background-color: black;
+    color: white;
+    display: inline;
+    margin-top: 15px;
+    margin-left: 47px;
+    float: left;
+}
+header nav{
+    width: 30%;
+    float: right;
+}
+nav ul{
+
+}
+nav ul li{
+    color: white;
+    /* text-decoration: none; */
+    float: left;
+    margin-left: 39px;
+    margin-top: 26px;
+    list-style: none;
+}
+img{
+    margin: auto;
+    display: block;
+}
+section{
+    width: 90%;
+    margin: auto;
+    margin-top: 100px;
+}
+.section_1{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.section_1_left{
+    width: 30%;
+    float: left;
+}
+.camera_icone{
+    width: 50px;
+    margin: auto;
+    margin-bottom: 5px; 
+}
+.fa-camera-retro{
+    font-size: 50px
+}
+.section_1_center{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+}
+.shield_icone{
+    width: 50px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.fa-shield-alt{
+    font-size: 50px;
+}
+.section_1_right{
+    width: 30%;
+    float: right;
+}
+.bookmark_icone{
+    width: 50px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.fa-bookmark{
+    font-size: 50px;
+}
+section h4{
+    text-align: center;
+    margin-bottom: 10px;
+    ;
+}
+section p{
+    text-align: center;
+}
+.section_2{
+    /* FONT-WEIGHT: 100; */
+    width: 100%;
+    overflow: hidden;
+    margin-top: 79px;
+    margin-bottom: 30px;
+}
+.section_2_left{
+    width: 47.5%;
+    float: left;
+}
+.section_2_right{
+    width: 47.5%;
+    float: right;
+}
+.demo{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 86px;
+}
+.demo_1{
+    display: inline;
+    float: left;
+    width: 47.5%;
+}
+.demo_1 img{
+    width: 100%;
+}
+.demo_2{
+    display: inline;
+    float: right;
+    width: 47.5%;
+}
+.demo_2 img{
+    width: 100%;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-top: 100px;
+}
+footer i{
+    color: #6094BB;
+}
+.social_media_logo{
+    width: 48px;
+    margin: auto;
+    padding-top: 22px;
+}
+.copyright{
+    width: 252px;
+    margin: auto;
+    margin-top: 14px;
+}
+.copyright p{
+    color: #9B9B9B;
+
+}
+.copyright span{
+    color: #6094BB;
+}
